@@ -2,12 +2,17 @@
 
 #include <stdio.h>
 
-int main()
+int get_number()
 {
     int number;
     printf("Kuthalahi Akada Liha: ");
     scanf("%d", &number);
-    printf("Tumhi Lihilela Akada: %d", number);
+    return number;
+}
+
+int main()
+{
+    printf("Tumhi Lihilela Akada: %d", get_numberi());
     return 0;
 }
 
