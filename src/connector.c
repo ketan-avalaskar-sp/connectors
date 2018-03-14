@@ -5,7 +5,7 @@
 int get_number()
 {
     int number;
-    printf("Kuthalahi Akada Liha bhau: ");
+    printf("Kuthalahi Akada Liha bhau1: ");
     scanf("%d", &number);
     return number;
 }
