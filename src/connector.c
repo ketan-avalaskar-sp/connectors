@@ -16,3 +16,10 @@ int main()
     return 0;
 }
 
+int get_numbernew()
+{
+    int number;
+    printf("Kuthalahi Akada Liha: ");
+    scanf("%d", &number);
+    return number;
+}
