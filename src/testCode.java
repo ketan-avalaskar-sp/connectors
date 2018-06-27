@@ -14,7 +14,7 @@ public class TestCode
 			System.out.println("good");
 			System.out.println("Error: using a hardcoded string");
 		}
-		if("String1".equals("String2")){
+		if("String1" == "String2"){
 			
 		}
 	}
