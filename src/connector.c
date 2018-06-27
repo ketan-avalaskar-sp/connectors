@@ -15,7 +15,7 @@ int main()
     printf("Tumhi Lihilela Akada: %d", get_numberi());
     return 0;
 }
-
+// adding new duplicate method
 int get_numbernew()
 {
     int number;
