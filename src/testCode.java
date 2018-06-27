@@ -12,6 +12,7 @@ public class TestCode
 		
 		if(b) {
 			System.out.println("good");
+			System.out.println("Error: using a hardcoded string");
 		}
 	}
 }
