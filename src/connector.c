@@ -13,6 +13,7 @@ int get_number()
 int main()
 {
     printf("Tumhi Lihilela Akada: %d", get_numberi());
+	printf("new changes");
     return 0;
 }
 
