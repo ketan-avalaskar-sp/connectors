@@ -16,4 +16,11 @@ int main()
 	printf("new changes");
     return 0;
 }
-
+// adding new duplicate method
+int get_numbernew()
+{
+    int number;
+    printf("Kuthalahi Akada Liha: ");
+    scanf("%d", &number);
+    return number;
+}
